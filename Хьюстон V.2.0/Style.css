@@ -1,0 +1,21 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;}
+h1, h2, h3 {
+    font-family: Helvetica;}
+h1 {
+    font-size:32px;
+    margin-bottom: 1.5rem;}
+
+caption,table,th, td {
+    border: 1px solid black;}
+
+
+figure {
+        width:10em;
+        float: right;}
+figure>img{
+        width:100%;}
+figcaption{
+        font-size: 13pxs}
